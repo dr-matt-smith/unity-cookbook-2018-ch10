@@ -10,3 +10,5 @@ The **completed** Unity projects for each example can be found in their own repo
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-03-manually-store-in-resources
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-04-saving-using-static-properties
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-05-saving-using-playerprefs
