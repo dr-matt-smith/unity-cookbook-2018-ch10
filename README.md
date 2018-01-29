@@ -13,6 +13,10 @@ The **completed** Unity projects for each example can be found in their own repo
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-05-saving-using-playerprefs
 
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-06-save-asset-bundles
+
+- https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-07-load-asset-bundles
+
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-08-saving-screenshots
 
 - https://github.com/dr-matt-smith/unity-cookbook-2018-ch11-09-load-level-data
